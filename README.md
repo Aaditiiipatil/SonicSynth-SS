@@ -55,6 +55,3 @@ Currently, the project showcases the frontend design of the SonicSynth music str
 
 - [ParthTilay](https://github.com/PARTHXT1022) - Collaborator and contributor to the website creation.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
